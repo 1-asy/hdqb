@@ -1,0 +1,47 @@
+{
+    "1": {
+        "monsterNum": 5,
+        "maxMonsterValume": 20,
+        "monsterMap": {
+            "301": 2,
+            "302": 2,
+            "306": 1
+        }
+    },
+    "2": {
+        "monsterNum": 10,
+        "maxMonsterValume": 20,
+        "monsterMap": {
+            "301": 5,
+            "302": 3,
+            "303": 2
+        }
+    },
+    "3": {
+        "monsterNum": 25,
+        "maxMonsterValume": 20,
+        "monsterMap": {
+            "301": 20,
+            "302": 15,
+            "303": 15
+        }
+    },
+    "4": {
+        "monsterNum": 50,
+        "maxMonsterValume": 20,
+        "monsterMap": {
+            "301": 10,
+            "302": 5,
+            "305": 5
+        }
+    },
+    "5": {
+        "monsterNum": 50,
+        "maxMonsterValume": 20,
+        "monsterMap": {
+            "301": 10,
+            "302": 5,
+            "306": 2
+        }
+    }
+}

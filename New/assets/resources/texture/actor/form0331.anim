@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "form0331",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.05,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "body": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "dab867cc-5e8f-4270-b66a-33a65f9c3e73"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "a4df8ff1-1675-41ad-bd8c-050419560262"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "9cfd9862-37d0-4834-b5b0-5df5da6b0181"
+                }
+              },
+              {
+                "frame": 0.75,
+                "value": {
+                  "__uuid__": "a4df8ff1-1675-41ad-bd8c-050419560262"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "dab867cc-5e8f-4270-b66a-33a65f9c3e73"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

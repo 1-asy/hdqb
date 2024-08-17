@@ -1,0 +1,121 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hit109",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.44,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "paths": {
+      "hit1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.38,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "hit2": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "d16029b3-5af9-4fa9-82d6-70a7ee0f5748"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.02,
+              "value": 125
+            },
+            {
+              "frame": 0.12,
+              "value": 200
+            },
+            {
+              "frame": 0.32,
+              "value": 200
+            },
+            {
+              "frame": 0.34,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 6,
+                "y": 6
+              }
+            },
+            {
+              "frame": 0.42,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 7,
+                "y": 7
+              }
+            },
+            {
+              "frame": 0.44,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 7,
+                "y": 7
+              }
+            }
+          ]
+        }
+      },
+      "hit3": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": []
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}
